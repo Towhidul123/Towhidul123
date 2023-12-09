@@ -29,7 +29,7 @@
 <h3 align="center">Current Stats</h3>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Towhidul&theme=tokyonight&hide_border=true&border_radius=0&card_width=900" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=towhidul123&theme=tokyonight&hide_border=true&border_radius=0&card_width=900" alt="towhidul123" /></a>
 
 </p>
 
